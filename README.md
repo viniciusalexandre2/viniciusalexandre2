@@ -1,7 +1,7 @@
 -----
 
 <div>
-<img align="center" alt="Header" src="https://github.com/viniciusalexandre2/viniciusalexandre/blob/main/img/headertech.jpg?raw=true"/>
+<img align="center" alt="Header" src="https://github.com/viniciusalexandre22/viniciusalexandre2/blob/main/img/headertech.jpg?raw=true"/>
 </div>
 
 -----
@@ -12,15 +12,15 @@
  <td align="center" colspan="11"></td>
 </tr> 
 <tr>
-<td><a href="https://github.com/viniciusalexandre2" target="_blank"><img src="https://github.com/viniciusalexandre2/viniciusalexandre/blob/main/img/github5.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://github.com/viniciusalexandre22" target="_blank"><img src="https://github.com/viniciusalexandre22/viniciusalexandre2/blob/main/img/github5.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="mailto:vinicius141103a@gmail.com" target="_blank"><img src="https://github.com/viniciusalexandre2/viniciusalexandre/blob/main/img/gmail2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="mailto:vinicius141103a@gmail.com" target="_blank"><img src="https://github.com/viniciusalexandre22/viniciusalexandre2/blob/main/img/gmail2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://wa.me/5531983913314" target="_blank"><img src="https://github.com/viniciusalexandre2/viniciusalexandre/blob/main/img/wpp2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://wa.me/5531983913314" target="_blank"><img src="https://github.com/viniciusalexandre22/viniciusalexandre2/blob/main/img/wpp2.png?raw=true" width="50px" height="50px"/></a>
 </td>
- <td><a href="https://www.instagram.com/vinicius_9a/" target="_blank"><img src="https://github.com/viniciusalexandre2/viniciusalexandre/blob/main/img/insta2.png?raw=true" width="50px" height="50px"/></a>
+ <td><a href="https://www.instagram.com/vinicius_9a/" target="_blank"><img src="https://github.com/viniciusalexandre22/viniciusalexandre2/blob/main/img/insta2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href="https://www.linkedin.com/in/vinícius-alexandre-142174232/" target="_blank"><img src="https://github.com/viniciusalexandre2/viniciusalexandre/blob/main/img/linkedin2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://www.linkedin.com/in/vinícius-alexandre-142174232/" target="_blank"><img src="https://github.com/viniciusalexandre22/viniciusalexandre2/blob/main/img/linkedin2.png?raw=true" width="50px" height="50px"/></a>
 </td>
 </td>
 </td>
@@ -41,10 +41,10 @@
 
 <div>
 <div>
-<img align="right" alt="GIF" src="https://github.com/viniciusalexandre2/viniciusalexandre/blob/main/img/dev.gif?raw=true" width="300px" height="300px"/>
+<img align="right" alt="GIF" src="https://github.com/viniciusalexandre22/viniciusalexandre2/blob/main/img/dev.gif?raw=true" width="300px" height="300px"/>
 </div>
 
-<img height="20" alt="GIF" src="https://github.com/viniciusalexandre2/viniciusalexandre/blob/main/img/soulgem.gif?raw=true"/>Meus interesses pessoais:
+<img height="20" alt="GIF" src="https://github.com/viniciusalexandre22/viniciusalexandre2/blob/main/img/soulgem.gif?raw=true"/>Meus interesses pessoais:
 
 <div align="justify">
 <p> 
@@ -64,24 +64,24 @@
 
 <div>
 
-<img height="20" alt="GIF" src="https://github.com/viniciusalexandre2/viniciusalexandre/blob/main/img/skills.gif?raw=true"/>&nbsp;Linguagens e ferramentas:
+<img height="20" alt="GIF" src="https://github.com/viniciusalexandre22/viniciusalexandre2/blob/main/img/skills.gif?raw=true"/>&nbsp;Linguagens e ferramentas:
 
-<code><a href="https://www.java.com/pt-BR/" target="_blank"><img width="32" height="32" src="https://github.com/viniciusalexandre2/viniciusalexandre/blob/main/img/java.png?raw=true"/></a></code>
+<code><a href="https://www.java.com/pt-BR/" target="_blank"><img width="32" height="32" src="https://github.com/viniciusalexandre22/viniciusalexandre2/blob/main/img/java.png?raw=true"/></a></code>
 &nbsp; 
-<code><a href="https://www.jetbrains.com/idea/" target="_blank"><img width="32" height="32" src="https://github.comviniciusalexandre2/viniciusalexandre/blob/main/img/IntelliJ.png?raw=true"/></a></code>
+<code><a href="https://www.jetbrains.com/idea/" target="_blank"><img width="32" height="32" src="https://github.comviniciusalexandre22/viniciusalexandre2/blob/main/img/IntelliJ.png?raw=true"/></a></code>
 &nbsp;
 
 -----
 
 -----
 
-<img height="20" alt="GIF" src="https://github.com/viniciusalexandre2/viniciusalexandre/blob/main/img/graphic.gif?raw=true"/>GitHub Stats:
+<img height="20" alt="GIF" src="https://github.com/viniciusalexandre22/viniciusalexandre2/blob/main/img/graphic.gif?raw=true"/>GitHub Stats:
 
 <div>
-<img align="right" alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=viniciusalexandre2&theme=github_dark"/>
-<!--- <img alt="GitHub Commits" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=viniciusalexandre2&theme=github_dark"/> -->
-<img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=viniciusalexandre2&theme=github_dark"/>
-<img alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=viniciusalexandre2&theme=github_dark"/>
+<img align="right" alt="GitHub Details" width="420px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=viniciusalexandre22&theme=github_dark"/>
+<!--- <img alt="GitHub Commits" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=viniciusalexandre22&theme=github_dark"/> -->
+<img alt="GitHub Stats" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=viniciusalexandre22&theme=github_dark"/>
+<img alt="GitHub Top Langs" width="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=viniciusalexandre22&theme=github_dark"/>
 </div>
 
 -----
@@ -91,7 +91,7 @@
 <div>
 <div>
 <details>
-<summary><img height="20" alt="GIF" src="https://github.com/viniciusalexandre2/viniciusalexandre/blob/main/img/spotify.gif?raw=true"/>Vinicus's Spotify Data</summary>
+<summary><img height="20" alt="GIF" src="https://github.com/viniciusalexandre22/viniciusalexandre2/blob/main/img/spotify.gif?raw=true"/>Vinicus's Spotify Data</summary>
 <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=22tb7vxju5xjv456mi47u3tdi" alt="Data Card for Spotify">
 </details>
 </div>
@@ -105,4 +105,4 @@
 <details>
 <summary>:headphones: :guitar: :drum:</summary>
 -----
-<img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=viniciusalexandre2"/>
+<img alt="Profile visitors" src="https://komarev.com/ghpvc/?username=viniciusalexandre22"/>
