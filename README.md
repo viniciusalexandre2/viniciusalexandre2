@@ -68,7 +68,7 @@
 
 <code><a href="https://www.java.com/pt-BR/" target="_blank"><img width="32" height="32" src="https://github.com/viniciusalexandre2/viniciusalexandre2/blob/main/img/java.png?raw=true"/></a></code>
 &nbsp; 
-<code><a href="https://www.jetbrains.com/idea/" target="_blank"><img width="32" height="32" src="https://github.comviniciusalexandre2/viniciusalexandre2/blob/main/img/IntelliJ.png?raw=true"/></a></code>
+<code><a href="https://www.jetbrains.com/idea/" target="_blank"><img width="32" height="32" src="https://github.com/viniciusalexandre2/viniciusalexandre2/blob/main/img/IntelliJ.png?raw=true"/></a></code>
 &nbsp;
 
 -----
