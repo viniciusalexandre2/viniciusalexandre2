@@ -20,7 +20,7 @@
 </td>
  <td><a href="https://www.instagram.com/vinicius_9a/" target="_blank"><img src="https://github.com/viniciusalexandre2/viniciusalexandre2/blob/main/img/insta2.png?raw=true" width="50px" height="50px"/></a>
 </td>
-<td><a href=https://www.linkedin.com/in/viniciusalexandre2/" target="_blank"><img src="https://github.com/viniciusalexandre2/viniciusalexandre2/blob/main/img/linkedin2.png?raw=true" width="50px" height="50px"/></a>
+<td><a href="https://www.linkedin.com/in/viniciusalexandre2/" target="_blank"><img src="https://github.com/viniciusalexandre2/viniciusalexandre2/blob/main/img/linkedin2.png?raw=true" width="50px" height="50px"/></a>
 </td>
 </td>
 </td>
